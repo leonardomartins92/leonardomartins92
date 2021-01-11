@@ -1,4 +1,4 @@
-![profile](https://github.com/leonardomartins92/Layout/blob/master/logo.png) 
+![profile](https://github.com/leonardomartins92/leonardomartins92/blob/master/logo.png) 
 
 About me:
 
@@ -15,11 +15,11 @@ About me:
     <tr>
       <td width="400px">
 	<p><h2>knowledge:</h2><br>
-	<img width="50px" height="50px" src="https://github.com/leonardomartins92/Layout/blob/master/javaLogo.png" hspace="10"/>
-	<img width="50px" height="50px" src="https://github.com/leonardomartins92/Layout/blob/master/python.png" hspace="10" />	
-	<img width="50px" height="50px" src="https://github.com/leonardomartins92/Layout/blob/master/javascript.png" hspace="10"/>
-	<img width="50px" height="50px" src="https://github.com/leonardomartins92/Layout/blob/master/html.png" hspace="10"/>
-	<img width="50px" height="50px" src="https://github.com/leonardomartins92/Layout/blob/master/css.png" hspace="10"/>
+	<img width="50px" height="50px" src="https://github.com/leonardomartins92/leonardomartins92/blob/master/javaLogo.png" hspace="10"/>
+	<img width="50px" height="50px" src="https://github.com/leonardomartins92/leonardomartins92/blob/master/python.png" hspace="10" />	
+	<img width="50px" height="50px" src="https://github.com/leonardomartins92/leonardomartins92/blob/master/javascript.png" hspace="10"/>
+	<img width="50px" height="50px" src="https://github.com/leonardomartins92/leonardomartins92/blob/master/html.png" hspace="10"/>
+	<img width="50px" height="50px" src="https://github.com/leonardomartins92/leonardomartins92/blob/master/css.png" hspace="10"/>
 	</p>
       </td>
       <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartins92&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>

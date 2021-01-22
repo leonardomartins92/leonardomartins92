@@ -21,12 +21,3 @@ About me:
  </center>
 </div>
 
-<style>
-.content-1{
- width:66.66%;
- position: static;
- background-image: url("");
- background-repeat: no-repeat;
- background-size: cover;
-}
-</style>

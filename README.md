@@ -11,11 +11,12 @@ About me:
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/leonardo-rodrigues-190258119)
 --- 
 <html>
+<link rel="stylesheet" type="text/css" href="https://github.com/leonardomartins92/leonardomartins92/blob/master/main.css">
 <div>
   <table>
     <tr>
-      <td> <img src="https://github.com/leonardomartins92/leonardomartins92/blob/master/languages.png" style="max-height=160px; height: auto; width=auto; max-width=400px;"></td>
-      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartins92&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>
+      <td> <img src="https://github.com/leonardomartins92/leonardomartins92/blob/master/languages.png"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartins92&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>
     </tr>
   </table>
 </div>

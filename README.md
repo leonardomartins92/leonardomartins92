@@ -2,9 +2,9 @@
 
 About me:
 
-:pencil: IT Student, Learning and Researching Data Science.  
+:pencil: Information Systems Student, Learning and Researching Data Science.  
 
-:computer: Java, HTML, CSS, JS, Python.
+:computer: Java, JS, Python, HTML, CSS.
 
 :earth_americas: Juiz de Fora, MG, Brazil. 
 

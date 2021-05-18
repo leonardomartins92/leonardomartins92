@@ -4,7 +4,7 @@ About me:
 
 :pencil: Information Systems Student.  
 
-:computer: JAVA, SPRING BOOT, JS, HTML, CSS.
+:computer: JAVA, SPRING BOOT, QA, JS, HTML, CSS.
 
 :earth_americas: Juiz de Fora, MG, Brazil. 
 
